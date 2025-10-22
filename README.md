@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shannie!
 
 ## About Me
-I'm a passionate **Java Developer** with full-stack and cloud experience using **AWS** and **Azure**. I enjoy contributing to open source projects and constantly improving my skills in cloud-native development.
+I'm a passionate **IT Developer** with full-stack and cloud experience using **AWS** and **Azure**. I enjoy contributing to open source projects and constantly improving my skills in cloud-native development.
 
 - 🔭 Currently working on cloud-integrated Java applications and exploring serverless architectures.
 - 🌱 Learning advanced cloud services, containerization (Docker, Kubernetes), and CI/CD pipelines.
