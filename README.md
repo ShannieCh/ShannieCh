@@ -24,5 +24,5 @@ I'm a passionate **IT Developer** with full-stack and cloud experience using **A
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out or collaborate on cloud-native Java projects.
+Thanks for visiting my profile! Feel free to reach out or collaborate on cloud-native Java/Python projects.
 
