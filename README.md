@@ -3,12 +3,6 @@
 ## About Me
 I'm a passionate **IT Developer** with full-stack and cloud experience using **AWS** and **Azure**. I enjoy contributing to open source projects and constantly improving my skills in cloud-native development.
 
-- 🔭 Currently working on cloud-integrated Java applications and exploring serverless architectures.
-- 🌱 Learning advanced cloud services, containerization (Docker, Kubernetes), and CI/CD pipelines.
-- 💬 Ask me about Java, AWS, Azure, Spring Boot, and cloud-native design.
-- 📫 Reach me at: chekani.shannie@gmail.com
-- ⚡ Fun fact: I love solving complex problems and optimizing cloud infrastructure.
-
 ## Skills & Technologies
 - **Languages:** Java, Python, SQL, Bash
 - **Cloud:** AWS (Lambda, S3, EC2), Azure (App Service, Functions)
