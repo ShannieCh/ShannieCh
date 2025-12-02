@@ -17,7 +17,7 @@ I'm a passionate **IT Developer** with full-stack and cloud experience using **A
 - [StaffManagement](https://github.com/ShannieCh/StaffManagement) – An employee management system without a database.
 
 ### Open Source Contributions
-- Fix bugs, improve documentation, and add new features to cloud-related Java projects.
+- Fix bugs, improve documentation, and add new features to cloud-related Java/Python projects.
 
 ### Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/shannie-chekani/)
