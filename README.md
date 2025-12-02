@@ -17,7 +17,6 @@ I'm a passionate **IT Developer** with full-stack and cloud experience using **A
 - [StaffManagement](https://github.com/ShannieCh/StaffManagement) – An employee management system without a database.
 
 ### Open Source Contributions
-- Actively contribute to Azure and AWS Java SDK repositories.
 - Fix bugs, improve documentation, and add new features to cloud-related Java projects.
 
 ### Let’s Connect!
