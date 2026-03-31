@@ -1,4 +1,3 @@
-# Hi there 👋, I'm Shannie!
 
 ## About Me
 I'm a passionate **IT Developer** with full-stack and cloud experience using **AWS** and **Azure**. I enjoy contributing to open source projects and constantly improving my skills in cloud-native development.
