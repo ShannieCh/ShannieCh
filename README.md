@@ -1,6 +1,6 @@
 
 ## About Me
-I am a developer who focuses on building reliable systems, making thoughtful architecture choices, and keeping a cool head when things get complicated.
+I am an IT developer passionate about building reliable systems, making thoughtful architecture choices, and keeping a cool head when things get complicated.
 
 ## What I’m working with
 Cloud Development: Hands-on experience deploying and managing applications within AWS and Azure environments.
