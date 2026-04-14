@@ -1,6 +1,6 @@
 
 ## About Me
-I’m a developer who believes the best code is the kind that helps the team move faster. I focus on building reliable systems, making thoughtful architecture choices, and keeping a cool head when things get complicated.
+I am a developer who focuses on building reliable systems, making thoughtful architecture choices, and keeping a cool head when things get complicated.
 
 ## What I’m working with
 Cloud Development: Hands-on experience deploying and managing applications within AWS and Azure environments.
